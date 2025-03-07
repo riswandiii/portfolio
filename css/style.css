@@ -1,0 +1,28 @@
+nav ul li:hover {
+    text-decoration:underline;
+    opacity: 0.8;
+    border-radius: 30px;
+}
+
+nav ul li {
+    font-weight: bold;
+}
+
+nav a {
+    font-weight: bold;
+}
+
+
+#nav {
+    background-color: black;
+    opacity: 0.9;
+}
+
+#web {
+    font-style: italic;
+}
+
+#nav {
+    background-color: #4a4a2a;
+}
+
